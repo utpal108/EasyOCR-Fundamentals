@@ -1,1 +1,1 @@
-# EasyOCR-Fundamentals
+# EasyOCR Fundamentals
